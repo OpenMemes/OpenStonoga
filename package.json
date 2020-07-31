@@ -1,0 +1,16 @@
+{
+  "name": "openstonoga",
+  "version": "1.0.0",
+  "description": "Zbiór memów ze Zbigniewem Stonogą oraz skryptami do ich pobierania z różnych stron.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "WTFPL",
+  "dependencies": {
+    "node-fetch": "^2.6.0",
+    "node-html-parser": "^1.2.20"
+  }
+}
