@@ -4,7 +4,7 @@ Zbiorek memów o Zbyszku Stonodze.
 # Po co to komu?
 Żeby w końcu memy o Stonodze były w jednym miejscu.
 
-# Jak używać? Chcę tylko memy!
+# Jak używać? Chcę tylko linki do memów!
 W głównym folderze repozytorium znajduje się plik data.json. Na jego podstawie możesz napisać skrypt losujący obrazki. Podano najmniejszy numer obrazka, największy, adres URL oraz rozszerzenie pliku.
 
 # Jak używać? Chcę pobierać memy!
@@ -25,6 +25,6 @@ Utwórz nowy issue na GitHubie z nazwą bota/projektu i linkiem do niego. Zostan
 # Hala Sław
 
 | [BOOMbo BOT](https://boombo.tk) | 
-| ------------- | ------------- | ------------- | ------------ |
+| ------------- |
 | ![](https://cdn.discordapp.com/avatars/450017151323996173/eedbdbc5006c9a7e2911aef096627e12.jpg?size=128)  |
 
