@@ -24,7 +24,7 @@ Utwórz nowy issue na GitHubie z nazwą bota/projektu i linkiem do niego. Zostan
 
 # Hala Sław
 
-| [BOOMbo BOT](https://boombo.tk) | [Infinity](https://infinitybot.tk) |
-| ------------- | ------------ |
-| ![](https://cdn.discordapp.com/avatars/450017151323996173/eedbdbc5006c9a7e2911aef096627e12.jpg?size=128)  | ![](https://cdn.discordapp.com/avatars/545926934886875139/a2132d5726c25c84f70eafa6d015f23f.webp?size=128) |
+| [BOOMfinity](https://boomfinity.xyz) |
+| ------------- |
+| ![](https://cdn.discordapp.com/avatars/450017151323996173/f2d4d1a2dd59a09f4b36ed9a8d9b4cbf.png?size=256)
 
