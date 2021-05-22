@@ -6,8 +6,7 @@ let pages = 3 //hardcodowane 3 strony, :(
 for (let i = 1; i <= pages; i++) {
     fetch(`https://www.blasty.pl/tag/zbigniew-stonoga/${i}`).then(async a => {
         console.log(i)
-        a = a.text()
-        a = await a
+        a = await a.text()
         a = a.replace(/<img/g, "\n<img")
         a.split(/\r\n|\r|\n/).forEach(c => {
             if (c.includes("src=\"https://www.blasty.pl/upload/images/large")) {
