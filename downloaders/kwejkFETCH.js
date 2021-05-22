@@ -12,8 +12,7 @@ fetch("https://kwejk.pl/tag/stonoga").then(async a => {
     for (let i = 1; i <= pages; i++) {
         fetch(`https://kwejk.pl/tag/stonoga/strona/${i}`).then(async b => {
             console.log(`Zbieranie strony ${i} z ${pages}.`)
-            b = b.text()
-            b = await b
+            b = await b.text()
             b = b.replace(/<img  width/g, "\n<img  width")
             b.split(/\r\n|\r|\n/).forEach(c => {
                 if (c.includes("@load=\"imageLoaded\" src=\"https://i1.kwejk.pl/k/obrazki/")) {
